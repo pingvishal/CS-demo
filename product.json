@@ -2,12 +2,12 @@
     "products": [
 	{
             "product": {
-                "title": "Talisker Storm"
+                "title": "Talisker Storm",
                 "bodyHtml": "Whisky",
                 "vendor": "Talisker",
                 "sku" : "12345678",
                 "producttype": "Drinks",
-                "productimage" :"img/duvel.jpg",
+                "productimage" :"img/talisker.jpg",
                 "startingat" : "$49.99",
                 "variants": [
                     {
