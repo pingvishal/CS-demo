@@ -2,9 +2,9 @@
     "products": [
 	{
             "product": {
-                "title": "A Nice Case of beer",
-                "bodyHtml": "Duvel Beer", 
-                "vendor": "TCI",
+                "title": "Talisker Storm"
+                "bodyHtml": "Whisky",
+                "vendor": "Talisker",
                 "sku" : "12345678",
                 "producttype": "Drinks",
                 "productimage" :"img/duvel.jpg",
