@@ -8,11 +8,11 @@
                 "sku" : "12345678",
                 "producttype": "Drinks",
                 "productimage" :"img/talisker.jpg",
-                "startingat" : "$49.99",
+                "startingat" : "$69.99",
                 "variants": [
                     {
                         "text": "Large",
-                        "price": "$59.99",
+                        "price": "$159.99",
                         "sku": "TCI-4L60E"
                     },
                     {
