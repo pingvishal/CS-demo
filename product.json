@@ -8,7 +8,7 @@
                 "sku" : "12345678",
                 "producttype": "Drinks",
                 "productimage" :"img/talisker.jpg",
-                "startingat" : "$69.99",
+                "startingat" : "$29.99",
                 "variants": [
                     {
                         "text": "Large",
