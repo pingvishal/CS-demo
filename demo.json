@@ -13,7 +13,7 @@
                     {
                         "text": "Pint",
                         "price": "5.99",
-                        "sku": "GU-1",
+                        "sku": "GU-1"
                     },
                     {
                         "text": "Glass",
@@ -25,7 +25,7 @@
         },
 	{
             "product": {
-                "title": "A Bottle of Whisky 
+                "title": "A Bottle of Whisky ",
                 "bodyHtml": "Talisker", 
                 "vendor": "Talisker",
                 "sku" : "12345678",
@@ -34,9 +34,32 @@
                 "startingat" : "$30.99",
                 "variants": [
                     {
-                        "text": "Litre"
+                        "text": "Litre",
                         "price": "30.99",
-                        "sku": "GU-1",
+                        "sku": "GU-1"
+                    },
+                    {
+                        "text": "Half",
+                        "price": "22.99",
+                        "sku": "GU-0.5"
+                    }
+                ]
+            }
+        },
+	{
+            "product": {
+                "title": "A Case of Beer",
+                "bodyHtml": "Duvel", 
+                "vendor": "Duvel",
+                "sku" : "12345678",
+                "producttype": "Drinks",
+                "productimage" :"img/duvel.jpg",
+                "startingat" : "$40.99",
+                "variants": [
+                    {
+                        "text": "Litre",
+                        "price": "30.99",
+                        "sku": "GU-1"
                     },
                     {
                         "text": "Half",
