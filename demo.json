@@ -1,0 +1,51 @@
+{
+    "products": [
+	{
+            "product": {
+                "title": "A Pint of Guinness", 
+                "bodyHtml": "It's Good For You !!", 
+                "vendor": "Guinness",
+                "sku" : "12345678",
+                "producttype": "Drinks",
+                "productimage" :"img/guiness.jpg",
+                "startingat" : "$5.99",
+                "variants": [
+                    {
+                        "text": "Pint",
+                        "price": "5.99",
+                        "sku": "GU-1",
+                    },
+                    {
+                        "text": "Glass",
+                        "price": "2.99",
+                        "sku": "GU-0.5"
+                    }
+                ]
+            }
+        },
+	{
+            "product": {
+                "title": "A Bottle of Whisky 
+                "bodyHtml": "Talisker", 
+                "vendor": "Talisker",
+                "sku" : "12345678",
+                "producttype": "Drinks",
+                "productimage" :"img/talisker.jpg",
+                "startingat" : "$30.99",
+                "variants": [
+                    {
+                        "text": "Litre"
+                        "price": "30.99",
+                        "sku": "GU-1",
+                    },
+                    {
+                        "text": "Half",
+                        "price": "22.99",
+                        "sku": "GU-0.5"
+                    }
+                ]
+            }
+        }
+        
+    ]
+}
