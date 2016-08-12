@@ -1,5 +1,5 @@
 function buildProductTypeOptions() {
-    // this will build the options in the product type combobox
+    // this will build the options in the product type combo box
     
     $.getJSON("/demo.json",function(result){
       // loop through what was sent back and build the comboxitems...
