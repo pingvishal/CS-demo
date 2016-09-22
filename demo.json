@@ -8,7 +8,7 @@
                 "sku" : "22344678",
                 "producttype": "Drinks",
                 "productimage" :"img/guiness.jpg",
-                "startingat" : "$7.99",
+                "startingat" : "$5.99",
                 "variants": [
                     {
                         "text": "Pint",
